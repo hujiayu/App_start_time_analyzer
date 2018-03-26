@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# generate reports
+report/
+.cache
+
+# virtualenv
+venv/
+ENV/
+.venv/
+
+# Rope project settings
+.ropeproject
+.idea/
+*.pyc
+tmp
+
+output/
+
+
+# log
+log/
